@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishant Jain</h1>
-<h2 align="center">A Full-stack developer from India</h2>
+<h3 align="center">A Full-stack developer from India</h3>
 
 - 🌱 I’m currently learning **Data Structures And Algorithms Using C++**
 
@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/nishant-jain-1614171a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishant-jain-1614171a0/" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Languages</h2>
+<h2 align="left">Languages</h2>
 <p>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50" height="50"/> </a>
