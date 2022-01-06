@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Jain</h1>
 <h3 align="center">A Full-stack developer from India</h3>
 
-- 🌱 I’m currently learning **Data structures and algorithms**
+- 🌱 I’m currently learning **Data Structures And Algorithms Using C++**
 
 - 📫 How to reach me **nishantjain1027@gmail.com**
 
